@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [2.0.0]
+ - Fork project from https://github.com/edvin/fxlauncher/
+ - Update FXLauncher to Java 21 and JavaFX 23
+
 ## [1.0.22-SNAPSHOT]
 
 ## [1.0.21 - 2018-12-28]
